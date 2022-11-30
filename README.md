@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Luther Pamba. A Web Developer, Cloud DevOps Engineer(AWS & GCP), Data Scientist, Android App Developer, Financial Analyst and ML Engineer (Computer Vision).
+- 👋 Hi, I’m Luther Pamba. A Web Developer, Cloud DevOps Engineer(AWS & GCP), Data Scientist/ML Engineer.
 - 👀 I’m interested in projects that solve problems by developing and deploying web or mobile apps using CI/CD pipeline tools such as circleci, Jenkins, Gitlab and Buddy, on cloud infrastructure in Abacus, AWS and Google Cloud using Infrastructure as Code.
 - 🌱 I’m currently learning Blockchain technology. 
 - 💞️ I’m looking to collaborate on any ML web or ML android app project that needs some cloud computing tasks to be done.
